@@ -1,9 +1,12 @@
-### Welcome, I'm Cynthia. 👋
-#### A Software Engineer
+##### Welcome, I'm Cynthia. 👋
 
+##### A Software Engineer
 
-- 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning new technologies and tools.
+#
+
+- 🔭 Working on my portfolio website.
+- 🌱 Currently learning new technologies and tools.
+- 📫 How to reach me: castano.cyn@gmail.com
 
 <!--
 
