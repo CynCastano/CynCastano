@@ -1,6 +1,8 @@
-### Hi, I'm Cynthia 👋
+### Welcome, I'm Cynthia. 👋
+#### A Software Engineer
 
-#### A Software Engineer in Southern California 
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning new technologies and tools.
 
 <!--
 
