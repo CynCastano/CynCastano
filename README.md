@@ -1,6 +1,6 @@
-##### Welcome, I'm Cynthia. 👋
+### Welcome, I'm Cynthia. 👋
 
-##### A Software Engineer
+#### A Software Engineer in Southern California. 
 
 #
 
